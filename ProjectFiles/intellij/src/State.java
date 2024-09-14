@@ -1,0 +1,12 @@
+public enum State {
+    HOME,
+
+    SELECT_SIGN,
+    SEARCH_SIGN,
+    BROWSE_CATEGORY,
+    VIEW_FAVORITES,
+    ADD_FAVORITE,
+    DELETE_FAVORITE,
+    QUIT,
+    ERROR,
+}

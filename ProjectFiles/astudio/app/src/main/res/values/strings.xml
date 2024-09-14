@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ASL</string>
+    <string name="search_btn">Search</string>
+    <string name="no_results"> No results </string>
+    <string name="home_btn">Home</string>
+    <string name="browse_btn">Browse</string>
+    <string name="favorites_btn">Favorites</string>
+    <string name="next_btn">Next</string>
+    <string name="previous_btn">Previous</string>
+    <string name="favorite_btn">Favorite</string>
+    <string name="select_btn">Select</string>
+    <string name="type_msg">Type a word or phrase to search for signs</string>
+    <string name="browse_msg">Choose a category</string>
+    <string name="input_word">Input word</string>
+    <string name="search_results"> Search results </string>
+    <string name="fav_word"> Favorite </string>
+    <string name="unfav_word"> Unfavorite </string>
+    <string name="result"> Result </string>
+    <string name="AZ"> Sort A-Z </string>
+    <string name="ZA"> Sort Z-A </string>
+
+</resources>
