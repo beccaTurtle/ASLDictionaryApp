@@ -1,7 +1,5 @@
-# CMPU-203 F23 - Team 1E
-***
-
 ## ASL Android App Prototype
+![Screenshot of the app home page showing the sign search functionality](https://github.com/user-attachments/assets/573739e6-651f-427b-92b1-dd56b74e3a2a)
 
 ## Description
 An android app created to close the communication gap between people who use spoken language and those who rely on sign language for communication. 
